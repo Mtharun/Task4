@@ -1,0 +1,63 @@
+{
+      "Introduction": {
+      "NAME": "THARUN M",
+      "ROLE": "PROGRAMMER",
+      "EMAIL": "sktharun@gmail.com",
+      "PHONE": "(+91) 7708148976",
+      "SUMMARY": "I'M THARUN from fairlands salem, I have completed my MCA at sona college of technology",
+      "LOCATION": {
+        "ADDRESS": "172 kannagi street, Advaidhashram Road, Fairlands - 4.",
+        "POSTALCODE": "636004",
+        "CITY": "SALEM",
+        "COUNTRY": "INDIA"
+      }
+    },
+    "WORK": [{
+      "NAME": "GUVI",
+      "POSITION": "WEB DEVELOPER",
+      "STARTDATE": "2023-08-16",
+      "ENDDATE": "",
+      "SUMMARY": "Full stack web developement course currently Roadmap session is going On]"
+    }],
+    "EDUCATION": [{
+      "INSTITUTION": "ANNA University",
+      "COLLEGE": "SONA COLLEGE OF TECHNOLOGY",
+      "studyType": "Bachelor",
+      "startDate": "2020-06-06",
+      "endDate": "2022-05-23",
+      "score": "8.5",
+      "courses": [
+        "MCA MASTER OF COMPUTER APPLICATION"
+      ]
+    }],
+    "SKILLS": [{
+      "NAME": "Web Development",
+      "LEVEL": "BEGINNER",
+      "KEYWORDS": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JAVA",
+        "MYSQL"
+      ]
+    }],
+    "LANGUAGES": [{
+      "LANGUAGE1": "TAMIL",
+      "FLUENCY1": "NATIVE SPEAKER ,WRITER",
+      "LANGUAGE2": "ENGLISH",
+      "FLUENCY2": "SPEAKE ,WRITE"
+    }],
+    "INTERESTED": [{
+      "keywords": [
+        "MUSIC",
+        "VIDEO GAMES",
+        "EDITING",
+        "PROGRAMMING"
+      ]
+    }],
+    "PROJECTS": [{
+      "NAME": "TICKET BOOKING",
+      "DESCRIPTION": "COLLEGE INDIVIDUAL PROJECT"
+    }]
+  }
+
